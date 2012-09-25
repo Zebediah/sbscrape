@@ -1,0 +1,755 @@
+<table width=660 border=1 class=list borderColor=#cccccc cellSpacing=0 cellPadding=3>
+<TR>
+<TD class=proc align=middle width=75 bgColor=#cccccc nowrap><a href='123.asp?sort=number'><B>Number</B></a></TD>
+<TD class=proc align=middle width=155 bgColor=#cccccc><a href='123.asp?sort=title'><B>Bid/RFP Title</B></a></TD>
+<TD class=proc align=middle width=50 bgColor=#cccccc><a href='123.asp?sort=duedate'><B>Due Date</B></a></TD>
+<TD class=proc align=middle width=110 bgColor=#cccccc><a href='123.asp?sort=contact'><B>Contact</B></a></TD>
+<TD class=proc align=middle width=20 bgColor=#cccccc><a href='123.asp?sort=status'><B>Status</B></a></TD>
+<TD class=proc align=middle width=130 bgColor=#cccccc><B>Information</B></TD>
+<TD class=proc align=middle width=120 bgColor=#cccccc><B>Award/Bid Tabulation</B></TD></TR>
+<tr><td class=proc width=75 align=middle><a href='115.asp?id=ITB1209229 ' nowrap>ITB1209229 </a></td>
+<td class=proc width=155 align=middle>Fire Suppression Inspection and Repair</td>
+<td class=proc width=50 align=middle>10/5/2012</td>
+<td class=proc width=110 align=middle><a href='mailto:david.wheeler@ocps.com'>David Wheeler</a><br>407-317.3700 5041</td>
+<td class=proc width=20 align=middle>Active</td>
+<td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/ITB1209229 Fire Suppression System Inspection and Repair Bid Price Sheet 97-2003 Version.xls' target=_blank> Price Sheet</a><br></td>
+<td class=proc width=130 align=middle>None</td>
+<tr><td class=proc width=75 align=middle><a href='115.asp?id=RFP1208183' nowrap>RFP1208183</a></td>
+<td class=proc width=155 align=middle>HP Servers Equipment, Installation & Support</td>
+<td class=proc width=50 align=middle>9/24/2012</td>
+<td class=proc width=110 align=middle><a href='mailto:marcel.martinez@ocps.net'>Marcel Martinez</a><br>4073173200 x 2417</td>
+<td class=proc width=20 align=middle>Under Evaluation</td>
+<td class=proc width=130 align=middle>None</td>
+<td class=proc width=130 align=middle>None</td>
+<tr><td class=proc width=75 align=middle><a href='115.asp?id=ITB1208203' nowrap>ITB1208203</a></td>
+<td class=proc width=155 align=middle>Custodial Supplies and Equipment</td>
+<td class=proc width=50 align=middle>9/20/2012</td>
+<td class=proc width=110 align=middle><a href='mailto:Nahid.Shahnami@ocps.net'>Nahid Shahnami</a><br>407.317.3200 x. 2876</td>
+<td class=proc width=20 align=middle>Under Evaluation</td>
+<td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/ITB1208203_CustodialSupplies Price Sheet.pdf' target=_blank>Price Sheet</a><br></td>
+<td class=proc width=130 align=middle>None</td>
+<tr><td class=proc width=75 align=middle><a href='115.asp?id=ITB1208207' nowrap>ITB1208207</a></td>
+<td class=proc width=155 align=middle>Transportation Filters</td>
+<td class=proc width=50 align=middle>9/19/2012</td>
+<td class=proc width=110 align=middle><a href='mailto:coler@ocps.net'>Robert Cole</a><br>407-3173200 x. 2453</td>
+<td class=proc width=20 align=middle>Under Evaluation</td>
+<td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/ITB1208207_BidPriceSheet.pdf' target=_blank>Price Sheet</a><br></td>
+<td class=proc width=130 align=middle>None</td>
+<tr><td class=proc width=75 align=middle><a href='115.asp?id=RFP1208184' nowrap>RFP1208184</a></td>
+<td class=proc width=155 align=middle>Network Vulnerability Assessment</td>
+<td class=proc width=50 align=middle>9/14/2012</td>
+<td class=proc width=110 align=middle><a href='mailto:marcel.martinez@ocps.net'>Marcel Martinez</a><br>4073173200 x 2417</td>
+<td class=proc width=20 align=middle>Under Evaluation</td>
+<td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/RFP1208184_Pre-Bid MeetingNotice.pdf' target=_blank>Pre-Bid Meeting Notice</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1208184_PreProposal Sgn-In.pdf' target=_blank>Pre-Proposal Meeting Sign-In</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1208184_Addendum1.pdf' target=_blank>Addendum 1</a><br></td>
+<td class=proc width=130 align=middle>None</td>
+<tr><td class=proc width=75 align=middle><a href='115.asp?id=RFI1208209' nowrap>RFI1208209</a></td>
+<td class=proc width=155 align=middle>Forms Management Tool</td>
+<td class=proc width=50 align=middle>9/13/2012</td>
+<td class=proc width=110 align=middle><a href='mailto:louemma.cromity@ocps.net'>Lou Emma Cromity</a><br>407-3173200 x. 2460</td>
+<td class=proc width=20 align=middle>Under Evaluation</td>
+<td class=proc width=130 align=middle>None</td>
+<td class=proc width=130 align=middle>None</td>
+<tr><td class=proc width=75 align=middle><a href='115.asp?id=ITB1208209' nowrap>ITB1208209</a></td>
+<td class=proc width=155 align=middle>Radio - Portable Products and Accessories</td>
+<td class=proc width=50 align=middle>9/13/2012</td>
+<td class=proc width=110 align=middle><a href='mailto:valensa@ocps.net'>Angel Valenson</a><br>407-3173200 x. 2304</td>
+<td class=proc width=20 align=middle>Under Evaluation</td>
+<td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/ITB1208209_PriceSheet.xls' target=_blank>Price Sheet</a><br></td>
+<td class=proc width=130 align=middle>None</td>
+<tr><td class=proc width=75 align=middle><a href='115.asp?id=RFP1208182' nowrap>RFP1208182</a></td>
+<td class=proc width=155 align=middle>Software Load/Performance Test Services</td>
+<td class=proc width=50 align=middle>9/12/2012</td>
+<td class=proc width=110 align=middle><a href='mailto:marcel.martinez@ocps.net'>Marcel Martinez</a><br>4073173200 x 2417</td>
+<td class=proc width=20 align=middle>Under Evaluation</td>
+<td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/RFP1208182_Pre-Bid MeetingNotice.pdf' target=_blank>Pre-Bid Meeting Notice</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1208182_Pre-Proposal Meeting Sign-In Sheet.pdf' target=_blank>Pre-Proposal Meeting Sign In Sheet</a><br></td>
+<td class=proc width=130 align=middle>None</td>
+<tr><td class=proc width=75 align=middle><a href='115.asp?id=RFP1208205' nowrap>RFP1208205</a></td>
+<td class=proc width=155 align=middle>Telecom Billing Report</td>
+<td class=proc width=50 align=middle>9/12/2012</td>
+<td class=proc width=110 align=middle><a href='mailto:marcel.martinez@ocps.net'>Marcel Martinez</a><br>4073173200 x 2417</td>
+<td class=proc width=20 align=middle>Under Evaluation</td>
+<td class=proc width=130 align=middle>None</td>
+<td class=proc width=130 align=middle>None</td>
+<tr><td class=proc width=75 align=middle><a href='115.asp?id=ITB1208204' nowrap>ITB1208204</a></td>
+<td class=proc width=155 align=middle>Printing Services</td>
+<td class=proc width=50 align=middle>9/12/2012</td>
+<td class=proc width=110 align=middle><a href='mailto:calandra.evans@ocps.net'>Calandra Evans</a><br>407-3173200 x. 2455</td>
+<td class=proc width=20 align=middle>Under Evaluation</td>
+<td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/ITB1208204_BidPriceSheet.pdf' target=_blank>Price Sheet</a><br></td>
+<td class=proc width=130 align=middle>None</td>
+<tr><td class=proc width=75 align=middle><a href='115.asp?id=ITB1208201' nowrap>ITB1208201</a></td>
+<td class=proc width=155 align=middle>Fire Extinguishers</td>
+<td class=proc width=50 align=middle>9/11/2012</td>
+<td class=proc width=110 align=middle><a href='mailto:valensa@ocps.net'>Angel Valenson</a><br>407-3173200 x. 2304</td>
+<td class=proc width=20 align=middle>Under Evaluation</td>
+<td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/ITB1208201_PriceSheet.xls' target=_blank>Price Sheet</a><br></td>
+<td class=proc width=130 align=middle>None</td>
+<tr><td class=proc width=75 align=middle><a href='115.asp?id=ITB12058192' nowrap>ITB12058192</a></td>
+<td class=proc width=155 align=middle>Utility Vehicle</td>
+<td class=proc width=50 align=middle>9/11/2012</td>
+<td class=proc width=110 align=middle><a href='mailto:valensa@ocps.net'>Angel Valenson</a><br>407-3173200 x. 2304</td>
+<td class=proc width=20 align=middle>Under Evaluation</td>
+<td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/ITB1208192_PriceSheet.xls' target=_blank>Price Sheet</a><br></td>
+<td class=proc width=130 align=middle>None</td>
+<tr><td class=proc width=75 align=middle><a href='115.asp?id=RFP1208180' nowrap>RFP1208180</a></td>
+<td class=proc width=155 align=middle>Telecommunication Services</td>
+<td class=proc width=50 align=middle>9/7/2012</td>
+<td class=proc width=110 align=middle><a href='mailto:marcel.martinez@ocps.net'>Marcel Martinez</a><br>4073173200 x 2417</td>
+<td class=proc width=20 align=middle>Under Evaluation</td>
+<td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/OCPS Sites List.pdf' target=_blank>Attachment</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1208180_Meeting Notice.pdf' target=_blank>Meeting Notice</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1208180_Pre-proposal Meeting Sign-In Sheet.pdf' target=_blank>Pre-Proposal Meeting Sign In Sheet</a><br></td>
+<td class=proc width=130 align=middle>None</td>
+<tr><td class=proc width=75 align=middle><a href='115.asp?id=ITB1205114' nowrap>ITB1205114</a></td>
+<td class=proc width=155 align=middle>Supplemental Transportation Special Needs Students</td>
+<td class=proc width=50 align=middle>9/5/2012</td>
+<td class=proc width=110 align=middle><a href='mailto:Nahid.Shahnami@ocps.net'>Nahid Shahnami</a><br>407.317.3200 x. 2876</td>
+<td class=proc width=20 align=middle>Under Evaluation</td>
+<td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/Isolated Transportation Price Sheet (2).pdf' target=_blank>Price Sheet</a><br><a href='http://procure.ocps.net/rfpdocs/Isolated Transportation Price Sheet (2).pdf' target=_blank>Price Sheet</a><br><a href='http://procure.ocps.net/rfpdocs/ITB1205114_Adden1.pdf' target=_blank>Addendum 1</a><br><a href='http://procure.ocps.net/rfpdocs/ITB1205114_Addendum 2.pdf' target=_blank>Addendum 2</a><br></td>
+<td class=proc width=130 align=middle>None</td>
+<tr><td class=proc width=75 align=middle><a href='115.asp?id=ITB1208193' nowrap>ITB1208193</a></td>
+<td class=proc width=155 align=middle>Transportation Wrecker Services</td>
+<td class=proc width=50 align=middle>9/5/2012</td>
+<td class=proc width=110 align=middle><a href='mailto:coler@ocps.net'>Robert Cole</a><br>407-3173200 x. 2453</td>
+<td class=proc width=20 align=middle>Under Evaluation</td>
+<td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/ITB1208193_PriceSheet.xls' target=_blank>Price Sheet</a><br></td>
+<td class=proc width=130 align=middle>None</td>
+<tr><td class=proc width=75 align=middle><a href='115.asp?id=ITB1205116' nowrap>ITB1205116</a></td>
+<td class=proc width=155 align=middle>Nutrition Banners Printing and Installation</td>
+<td class=proc width=50 align=middle>9/4/2012</td>
+<td class=proc width=110 align=middle><a href='mailto:Nahid.Shahnami@ocps.net'>Nahid Shahnami</a><br>407.317.3200 x. 2876</td>
+<td class=proc width=20 align=middle>Under Evaluation</td>
+<td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/ITB1205116_Price sheet.pdf' target=_blank>Price Sheet</a><br><a href='http://procure.ocps.net/rfpdocs/ITB1205116_Adden1.pdf' target=_blank>Addendum 1</a><br><a href='http://procure.ocps.net/rfpdocs/ITB1205116_RevisedPrice sheet.pdf' target=_blank>Revised Price Sheet</a><br></td>
+<td class=proc width=130 align=middle>None</td>
+<tr><td class=proc width=75 align=middle><a href='115.asp?id=ITB1207177' nowrap>ITB1207177</a></td>
+<td class=proc width=155 align=middle>ProofPoint Licenses, Annual Maintenance and Support</td>
+<td class=proc width=50 align=middle>8/21/2012</td>
+<td class=proc width=110 align=middle><a href='mailto:louemma.cromity@ocps.net'>Lou Emma Cromity</a><br>407-3173200 x. 2460</td>
+<td class=proc width=20 align=middle>Under Evaluation</td>
+<td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/ITB1207177_ Bid Price Sheet.xls' target=_blank>Price Sheet</a><br></td>
+<td class=proc width=130 align=middle>None</td>
+<tr><td class=proc width=75 align=middle><a href='115.asp?id=RFI1207176' nowrap>RFI1207176</a></td>
+<td class=proc width=155 align=middle>Building Best Practices in SAP</td>
+<td class=proc width=50 align=middle>8/21/2012</td>
+<td class=proc width=110 align=middle><a href='mailto:louemma.cromity@ocps.net'>Lou Emma Cromity</a><br>407-3173200 x. 2460</td>
+<td class=proc width=20 align=middle>Under Evaluation</td>
+<td class=proc width=130 align=middle>None</td>
+<td class=proc width=130 align=middle>None</td>
+<tr><td class=proc width=75 align=middle><a href='115.asp?id=ITB1207161' nowrap>ITB1207161</a></td>
+<td class=proc width=155 align=middle>Skid Steer</td>
+<td class=proc width=50 align=middle>8/21/2012</td>
+<td class=proc width=110 align=middle><a href='mailto:valensa@ocps.net'>Angel Valenson</a><br>407-3173200 x. 2304</td>
+<td class=proc width=20 align=middle>Under Evaluation</td>
+<td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/ITB1207161_PriceSheet.xls' target=_blank>Price Sheet</a><br></td>
+<td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/ITB1207161_TAB.pdf' target=_blank>Tab Sheet</a><br><a href='http://procure.ocps.net/rfpdocs/ITB1207161_NOI.pdf' target=_blank>Notice of Intent</a><br></td>
+<tr><td class=proc width=75 align=middle><a href='115.asp?id=ITB1207172' nowrap>ITB1207172</a></td>
+<td class=proc width=155 align=middle>Portable A/C</td>
+<td class=proc width=50 align=middle>8/21/2012</td>
+<td class=proc width=110 align=middle><a href='mailto:valensa@ocps.net'>Angel Valenson</a><br>407-3173200 x. 2304</td>
+<td class=proc width=20 align=middle>Under Evaluation</td>
+<td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/ITB1207170_PriceSheet.xls' target=_blank>Price Sheet</a><br></td>
+<td class=proc width=130 align=middle>None</td>
+<tr><td class=proc width=75 align=middle><a href='115.asp?id=ITB1207175' nowrap>ITB1207175</a></td>
+<td class=proc width=155 align=middle>Ball Field Clay</td>
+<td class=proc width=50 align=middle>8/21/2012</td>
+<td class=proc width=110 align=middle><a href='mailto:valensa@ocps.net'>Angel Valenson</a><br>407-3173200 x. 2304</td>
+<td class=proc width=20 align=middle>Under Evaluation</td>
+<td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/ITB1207175_PriceSheet.xls' target=_blank>Price Sheet</a><br></td>
+<td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/ITB1207175_Tab.pdf' target=_blank>Tab Sheet</a><br><a href='http://procure.ocps.net/rfpdocs/ITB1207175_NOI.pdf' target=_blank>Notice of Intent</a><br></td>
+<tr><td class=proc width=75 align=middle><a href='115.asp?id=RFP1206155' nowrap>RFP1206155</a></td>
+<td class=proc width=155 align=middle>Staff Augmentation - SAP Functions</td>
+<td class=proc width=50 align=middle>7/25/2012</td>
+<td class=proc width=110 align=middle><a href='mailto:louemma.cromity@ocps.net'>Lou Emma Cromity</a><br>407-3173200 x. 2460</td>
+<td class=proc width=20 align=middle>Under Evaluation</td>
+<td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/RFP1206155 Addendum Number 1.pdf' target=_blank>Addendum 1</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1206166_Bid.Sign.In _Log.pdf' target=_blank>Bid Sign In Sheet</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1206155_Shortlist Evaluation Meeting.pdf' target=_blank>Shortlist Evaluation Meeting</a><br></td>
+<td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/RFP1206155_Shortlist Evaluation Meeting.pdf' target=_blank>Evaluation Ranking</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1206155_Final Ranking - Revised.pdf' target=_blank>Final Ranking</a><br></td>
+<tr><td class=proc width=75 align=middle><a href='115.asp?id=ITB1206149' nowrap>ITB1206149</a></td>
+<td class=proc width=155 align=middle>Transportation Filters</td>
+<td class=proc width=50 align=middle>7/18/2012</td>
+<td class=proc width=110 align=middle><a href='mailto:coler@ocps.net'>Robert Cole</a><br>407-3173200 x. 2453</td>
+<td class=proc width=20 align=middle>Under Evaluation</td>
+<td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/ITB1206149_Price Sheet.xls' target=_blank>Price Sheet</a><br></td>
+<td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/ITB1206149_NOI.pdf' target=_blank>Notice of Intent 071912 4:45PM</a><br><a href='http://procure.ocps.net/rfpdocs/ITB1206149_Revised NOI.pdf' target=_blank>Revised Notice of Intent</a><br></td>
+<tr><td class=proc width=75 align=middle><a href='115.asp?id=ITB1206157' nowrap>ITB1206157</a></td>
+<td class=proc width=155 align=middle>Asbestos Abatement</td>
+<td class=proc width=50 align=middle>7/17/2012</td>
+<td class=proc width=110 align=middle><a href='mailto:Nahid.Shahnami@ocps.net'>Nahid Shahnami</a><br>407.317.3200 x. 2876</td>
+<td class=proc width=20 align=middle>Under Evaluation</td>
+<td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/ITB1206157_BidPriceSheet.xls' target=_blank>Price Sheet</a><br></td>
+<td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/ITB1206157_TabSheet.pdf' target=_blank>Tab Sheet</a><br><a href='http://procure.ocps.net/rfpdocs/ITB1206157_NOI.pdf' target=_blank>Notice of Intent</a><br></td>
+<tr><td class=proc width=75 align=middle><a href='115.asp?id=ITB1205109' nowrap>ITB1205109</a></td>
+<td class=proc width=155 align=middle>Pest Control Services</td>
+<td class=proc width=50 align=middle>7/17/2012</td>
+<td class=proc width=110 align=middle><a href='mailto:Nahid.Shahnami@ocps.net'>Nahid Shahnami</a><br>407.317.3200 x. 2876</td>
+<td class=proc width=20 align=middle>Under Evaluation</td>
+<td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/ITB1205109_BidPriceSheet.xls' target=_blank>Price Sheet</a><br><a href='http://procure.ocps.net/rfpdocs/ITB1205109_ Addendum No 1.pdf' target=_blank>Addendum 1</a><br><a href='http://procure.ocps.net/rfpdocs/School List.pdf' target=_blank>School List</a><br></td>
+<td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/ITB1205109_TabSheet.pdf' target=_blank>Tab Sheet</a><br><a href='http://procure.ocps.net/rfpdocs/ITB1205109_NOI.pdf' target=_blank>Notice of Intent</a><br></td>
+<tr><td class=proc width=75 align=middle><a href='115.asp?id=RFP1206143' nowrap>RFP1206143</a></td>
+<td class=proc width=155 align=middle>e-Recruiting Production Support & Services Development</td>
+<td class=proc width=50 align=middle>7/13/2012</td>
+<td class=proc width=110 align=middle><a href='mailto:louemma.cromity@ocps.net'>Lou Emma Cromity</a><br>407-3173200 x. 2460</td>
+<td class=proc width=20 align=middle>Under Evaluation</td>
+<td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/RFP1206143_ Pre Submittal MeetingNotice.pdf' target=_blank>Pre-Submittal Meeting Notice</a><br><a href='http://procure.ocps.net/rfpdocs/RFP12061243 e-Recruiting Production and Support_Addendum1.pdf' target=_blank>Addendum 1</a><br><a href='http://procure.ocps.net/rfpdocs/RFP12006143_Shortlist MeetingNotice.pdf' target=_blank>Shortlist Meeting Notice</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1206143_Shortlist Evaluation Meeting.pdf' target=_blank>Shortlist Evaluation Meeting</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1206143_Final Ranking Evaluation Meeting.pdf' target=_blank>Final Ranking Evaluation Meeting</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1206143_REVISEDFinal Ranking Evaluation Meeting.pdf' target=_blank>Revised Final Ranking Evaluation Meeting</a><br></td>
+<td class=proc width=130 align=middle>None</td>
+<tr><td class=proc width=75 align=middle><a href='115.asp?id=RFI1206142' nowrap>RFI1206142</a></td>
+<td class=proc width=155 align=middle>Volunteer Management System</td>
+<td class=proc width=50 align=middle>7/13/2012</td>
+<td class=proc width=110 align=middle><a href='mailto:louemma.cromity@ocps.net'>Lou Emma Cromity</a><br>407-3173200 x. 2460</td>
+<td class=proc width=20 align=middle>Under Evaluation</td>
+<td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/RFI1206142_Partners in Education.xls' target=_blank>Partners In Education</a><br><a href='http://procure.ocps.net/rfpdocs/RFI1205126_ATTACHMENT A.doc' target=_blank>Attachment A</a><br><a href='http://procure.ocps.net/rfpdocs/RFI1206142_Volunteer System Features.xls' target=_blank>Volunteer System Features</a><br><a href='http://procure.ocps.net/rfpdocs/RFI1206142_Visitor Systems Features.xls' target=_blank>Visitor Systems Features</a><br></td>
+<td class=proc width=130 align=middle>None</td>
+<tr><td class=proc width=75 align=middle><a href='115.asp?id=ITB1206147' nowrap>ITB1206147</a></td>
+<td class=proc width=155 align=middle>Art Equipment and Supplies</td>
+<td class=proc width=50 align=middle>7/12/2012</td>
+<td class=proc width=110 align=middle><a href='mailto:calandra.evans@ocps.net'>Calandra Evans</a><br>407-3173200 x. 2455</td>
+<td class=proc width=20 align=middle>Under Evaluation</td>
+<td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/ITB1206147_BidPriceSheet.xls' target=_blank>Price Sheet</a><br></td>
+<td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/ITB1206147_TabSheet1.pdf' target=_blank>Tab Sheet</a><br><a href='http://procure.ocps.net/rfpdocs/ITB1206147_NOI.pdf' target=_blank>Notice of Intent</a><br></td>
+<tr><td class=proc width=75 align=middle><a href='115.asp?id=RFP1206144' nowrap>RFP1206144</a></td>
+<td class=proc width=155 align=middle>Intrusion Detection System Conversion</td>
+<td class=proc width=50 align=middle>7/11/2012</td>
+<td class=proc width=110 align=middle><a href='mailto:Nahid.Shahnami@ocps.net'>Nahid Shahnami</a><br>407.317.3200 x. 2876</td>
+<td class=proc width=20 align=middle>Under Evaluation</td>
+<td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/RFP1206144-ShortEvalMeeting 1.pdf' target=_blank>Shortlist Ranking</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1206144-ShortEvalMeeting 1.pdf' target=_blank>Revised Short List Ranking</a><br></td>
+<td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/RFP1206144-Notice of Intent.pdf' target=_blank>Notice of Intent - Final Ranking</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1206144-Notice of Intent.pdf' target=_blank>Revised Notice Of Intent - Final Ranking</a><br></td>
+<tr><td class=proc width=75 align=middle><a href='115.asp?id=ITB1205108' nowrap>ITB1205108</a></td>
+<td class=proc width=155 align=middle>Custodial Paper (Whse)</td>
+<td class=proc width=50 align=middle>7/3/2012</td>
+<td class=proc width=110 align=middle><a href='mailto:coler@ocps.net'>Robert Cole</a><br>407-3173200 x. 2453</td>
+<td class=proc width=20 align=middle>Under Evaluation</td>
+<td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/ITB1205108_PriceSheet.xls' target=_blank>Price Sheet</a><br></td>
+<td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/ITB1205108_Tab.pdf' target=_blank>Tab Sheet</a><br></td>
+<tr><td class=proc width=75 align=middle><a href='115.asp?id=ITB1201023' nowrap>ITB1201023</a></td>
+<td class=proc width=155 align=middle>Classroom Materials</td>
+<td class=proc width=50 align=middle>6/28/2012</td>
+<td class=proc width=110 align=middle><a href='mailto:calandra.evans@ocps.net'>Calandra Evans</a><br>407-3173200 x. 2455</td>
+<td class=proc width=20 align=middle>Under Evaluation</td>
+<td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/ITB1201023_PriceSheet.xls' target=_blank>Price Sheet</a><br><a href='http://procure.ocps.net/rfpdocs/ITB1201023_RevisedPriceSheet.xls' target=_blank>Revised Price Sheet</a><br><a href='http://procure.ocps.net/rfpdocs/ITB1201023_Addendum1.pdf' target=_blank>Addendum 1</a><br></td>
+<td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/ITB1201023_BidTabSheet.pdf' target=_blank>Tab Sheet</a><br><a href='http://procure.ocps.net/rfpdocs/ITB1201023_NOI.pdf' target=_blank>Notice of Intent </a><br></td>
+<tr><td class=proc width=75 align=middle><a href='115.asp?id=ITB1203060' nowrap>ITB1203060</a></td>
+<td class=proc width=155 align=middle>Science Tables</td>
+<td class=proc width=50 align=middle>6/13/2012</td>
+<td class=proc width=110 align=middle><a href='mailto:calandra.evans@ocps.net'>Calandra Evans</a><br>407-3173200 x. 2455</td>
+<td class=proc width=20 align=middle>Under Evaluation</td>
+<td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/ITB1203060_PriceSheet.xls' target=_blank>Price Sheet</a><br></td>
+<td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/ITB1203060_TabSheet.pdf' target=_blank>Tab Sheet</a><br><a href='http://procure.ocps.net/rfpdocs/ITB1203060_NOI.pdf' target=_blank>Notice of Intent </a><br></td>
+<tr><td class=proc width=75 align=middle><a href='115.asp?id=ITB1205101' nowrap>ITB1205101</a></td>
+<td class=proc width=155 align=middle>Physical Examinations for School Bus Drivers</td>
+<td class=proc width=50 align=middle>6/12/2012</td>
+<td class=proc width=110 align=middle><a href='mailto:Nahid.Shahnami@ocps.net'>Nahid Shahnami</a><br>407.317.3200 x. 2876</td>
+<td class=proc width=20 align=middle>Under Evaluation</td>
+<td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/ITB1205101_PriceSheet.xls' target=_blank>Price Sheet</a><br></td>
+<td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/ITB1205101_NOI.pdf' target=_blank>Notice of Intent</a><br></td>
+<tr><td class=proc width=75 align=middle><a href='115.asp?id=' nowrap></a></td>
+<td class=proc width=155 align=middle>Telecom Billing Audit Services</td>
+<td class=proc width=50 align=middle>5/29/2012</td>
+<td class=proc width=110 align=middle><a href='mailto:marcel.martinez@ocps.net'>Marcel Martinez</a><br>4073173200 x 2417</td>
+<td class=proc width=20 align=middle>Under Evaluation</td>
+<td class=proc width=130 align=middle>None</td>
+<td class=proc width=130 align=middle>None</td>
+<tr><td class=proc width=75 align=middle><a href='115.asp?id=RFP1202026' nowrap>RFP1202026</a></td>
+<td class=proc width=155 align=middle>Exclusive Beverage Vending Services</td>
+<td class=proc width=50 align=middle>4/9/2012</td>
+<td class=proc width=110 align=middle><a href='mailto:nidom@ocps.net'>Nellie Nido</a><br>407.317.3200 x. 3306</td>
+<td class=proc width=20 align=middle>Under Evaluation</td>
+<td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/RFP1202026_RevisedSchedule.pdf' target=_blank>Revised Schedule</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1202026_MeetingNotice1.pdf' target=_blank>Meeting Notice 1</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1202026_Pre Submittal Power Point.ppt' target=_blank>Pre-Submittal Power Point</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1202026_PresubmittalSignIn.pdf' target=_blank>Pre-Submittal Sign In</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1202026_AddendumPost.pdf' target=_blank>Addendum 1</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1202026_Bid_SignIn_Log.pdf' target=_blank>Bid Sign-In Log</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1202026_MeetingNotice2.pdf' target=_blank>Meeting Notice 2</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1202026_ShortlistPost.pdf' target=_blank>Shortlist</a><br></td>
+<td class=proc width=130 align=middle>None</td>
+<tr><td class=proc width=75 align=middle><a href='115.asp?id=RFP1201013' nowrap>RFP1201013</a></td>
+<td class=proc width=155 align=middle>Testing Services: Drug and Alcohol</td>
+<td class=proc width=50 align=middle>4/4/2012</td>
+<td class=proc width=110 align=middle><a href='mailto:nidom@ocps.net'>Nellie Nido</a><br>407.317.3200 x. 3306</td>
+<td class=proc width=20 align=middle>Under Evaluation</td>
+<td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/RFP1201013_Addendum1Post.pdf' target=_blank>Addendum 1</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1201013_Addendum2.pdf' target=_blank>Addendum 2</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1201013_BidSignInLog.pdf' target=_blank>Bid Sign In Log</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1201013_MeetingNotice1.pdf' target=_blank>Meeting Notice 1</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1201013_ShortlistPost.pdf' target=_blank>Shortlist</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1201013_MeetingNotice2.pdf' target=_blank>Meeting Notice 2</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1201013_FinalRankingPost.pdf' target=_blank>Final Ranking</a><br></td>
+<td class=proc width=130 align=middle>None</td>
+<tr><td class=proc width=75 align=middle><a href='115.asp?id=RFP1201016' nowrap>RFP1201016</a></td>
+<td class=proc width=155 align=middle>Consulting Services-Healthcare Actuary</td>
+<td class=proc width=50 align=middle>2/29/2012</td>
+<td class=proc width=110 align=middle><a href='mailto:nidom@ocps.net'>Nellie Nido</a><br>407.317.3200 x. 3306</td>
+<td class=proc width=20 align=middle>Under Evaluation</td>
+<td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/RFP1201016_Addendum1.pdf' target=_blank>Addendum1</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1201016_BenefitsRateChange.pdf' target=_blank>Benefits Rate Change</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1201016_DemographicStudy.pdf' target=_blank>Demographic Study</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1201016_DRGStudy.pdf' target=_blank>DRG Study</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1201016_GASB2010.pdf' target=_blank>GASB</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1201016_HRA.pdf' target=_blank>HRA</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1201016_MedicareComparison.pdf' target=_blank>Medicare Comparison</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1201016_RateReallocation.pdf' target=_blank>Rate Reallocation</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1201016_RateReallocation.xls' target=_blank>Rate Reallocation Spreadsheet</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1201016_SummerReserveFactors.pdf' target=_blank>Summer Reserve Factors</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1201016_Bid_SignIn_Log.pdf' target=_blank>Bid Sign In Log</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1201016_MeetingNotice1.pdf' target=_blank>Meeting Notice 1</a><br></td>
+<td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/RFP1201016_RankPost.pdf' target=_blank>Shortlist Ranking</a><br></td>
+<tr><td class=proc width=75 align=middle><a href='115.asp?id=ITB1201017' nowrap>ITB1201017</a></td>
+<td class=proc width=155 align=middle>White Fleet Preventative Maintenance District Wide</td>
+<td class=proc width=50 align=middle>2/23/2012</td>
+<td class=proc width=110 align=middle><a href='mailto:Nahid.Shahnami@ocps.net'>Nahid Shahnami</a><br>407.317.3200 x. 2876</td>
+<td class=proc width=20 align=middle>Under Evaluation</td>
+<td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/ITB1201017_Price Sheet.xls' target=_blank>Price Sheet</a><br></td>
+<td class=proc width=130 align=middle>None</td>
+<tr><td class=proc width=75 align=middle><a href='115.asp?id=' nowrap></a></td>
+<td class=proc width=155 align=middle>Request for Pizza Selection and Evaluation</td>
+<td class=proc width=50 align=middle>2/10/2012</td>
+<td class=proc width=110 align=middle><a href='mailto:Nahid.Shahnami@ocps.net'>Nahid Shahnami</a><br>407.317.3200 x. 2876</td>
+<td class=proc width=20 align=middle>Under Evaluation</td>
+<td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/EXG1201008_Addendum1.pdf' target=_blank>Addendum 1</a><br></td>
+<td class=proc width=130 align=middle>None</td>
+<tr><td class=proc width=75 align=middle><a href='115.asp?id=' nowrap></a></td>
+<td class=proc width=155 align=middle>Middle School Athletic Uniforms</td>
+<td class=proc width=50 align=middle>2/8/2012</td>
+<td class=proc width=110 align=middle><a href='mailto:calandra.evans@ocps.net'>Calandra Evans</a><br>407-3173200 x. 2455</td>
+<td class=proc width=20 align=middle>Under Evaluation</td>
+<td class=proc width=130 align=middle>None</td>
+<td class=proc width=130 align=middle>None</td>
+<tr><td class=proc width=75 align=middle><a href='115.asp?id=EXG1201008' nowrap>EXG1201008</a></td>
+<td class=proc width=155 align=middle>Request for Submittal - Secondary Pizza Testing</td>
+<td class=proc width=50 align=middle>2/3/2012</td>
+<td class=proc width=110 align=middle><a href='mailto:Nahid.Shahnami@ocps.net'>Nahid Shahnami</a><br>407.317.3200 x. 2876</td>
+<td class=proc width=20 align=middle>Under Evaluation</td>
+<td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/EXG1201008_Pizza Attachment B TUESDAY 31.pdf' target=_blank>Attachment B</a><br><a href='http://procure.ocps.net/rfpdocs/EXG1201008-Pizza Specification-PS POSTING TUESDAY 31.xls' target=_blank>Specification</a><br></td>
+<td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/EXG1201008- Final Evaluation_ POSTING ThursdayFeb09.xls' target=_blank>Notice of Intent </a><br><a href='http://procure.ocps.net/rfpdocs/EXG1201008 PizzaTest results Sent to USFood for Pricing.xls' target=_blank>Notice - OCPS Requesting US Foods for Pricing</a><br></td>
+<tr><td class=proc width=75 align=middle><a href='115.asp?id=' nowrap></a></td>
+<td class=proc width=155 align=middle>Projector Replacement Lamps/Bulbs</td>
+<td class=proc width=50 align=middle>1/25/2012</td>
+<td class=proc width=110 align=middle><a href='mailto:louemma.cromity@ocps.net'>Lou Emma Cromity</a><br>407-3173200 x. 2460</td>
+<td class=proc width=20 align=middle>Under Evaluation</td>
+<td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/ITB1112321  Price Sheet.xlsx' target=_blank>Price Sheet</a><br></td>
+<td class=proc width=130 align=middle>None</td>
+<tr><td class=proc width=75 align=middle><a href='115.asp?id=' nowrap></a></td>
+<td class=proc width=155 align=middle>Poster Makers and Lamination Equipment and Supplies</td>
+<td class=proc width=50 align=middle>1/25/2012</td>
+<td class=proc width=110 align=middle><a href='mailto:louemma.cromity@ocps.net'>Lou Emma Cromity</a><br>407-3173200 x. 2460</td>
+<td class=proc width=20 align=middle>Under Evaluation</td>
+<td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/ITB1106164 Price Sheet.xls' target=_blank>Price Sheet</a><br></td>
+<td class=proc width=130 align=middle>None</td>
+<tr><td class=proc width=75 align=middle><a href='115.asp?id=RFP1110280' nowrap>RFP1110280</a></td>
+<td class=proc width=155 align=middle>Emergency Meal and Supplies</td>
+<td class=proc width=50 align=middle>1/17/2012</td>
+<td class=proc width=110 align=middle><a href='mailto:Nahid.Shahnami@ocps.net'>Nahid Shahnami</a><br>407.317.3200 x. 2876</td>
+<td class=proc width=20 align=middle>Under Evaluation</td>
+<td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/RFP1110280 ATTACHMENT A.pdf' target=_blank>Attachment A</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1110280 ATTACHMENTS B.pdf' target=_blank>Attachment B</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1110280 ATTACHMENT C.pdf' target=_blank>Attachment C</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1110280 ATTACHMENT D.pdf' target=_blank>Attachment D</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1110280 ATTACHMENT F.pdf' target=_blank>Attachment E</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1110280 ATTACHMENT G.pdf' target=_blank>Attachment G</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1110280 ATTACHMENT F.pdf' target=_blank>Attachment F</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1110280 ATTACHMENT H.pdf' target=_blank>Attachment H</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1110280 ATTACHMENT I.pdf' target=_blank>Attachment I</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1110280 ATTACHMENT J.pdf' target=_blank>Attachment J</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1110280 ATTACHMENT K.pdf' target=_blank>Attachment K</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1110280 ATTACHMENT M.pdf' target=_blank>Attachment M</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1110280 ATTACHMENT N.pdf' target=_blank>Attachment N</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1110280 ATTACHMENT P.pdf' target=_blank>Attachment P</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1110280 ATTACHMENT L.pdf' target=_blank>Attachment L</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1110280 ATTACHMENT O.pdf' target=_blank>Attachment O</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1110280_ Meeting Notice.pdf' target=_blank>Meeting Notice</a><br></td>
+<td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/RFP1110280_Presentation Evaluation Feb24 .xls' target=_blank>Notice of Intended Action</a><br></td>
+<tr><td class=proc width=75 align=middle><a href='115.asp?id=' nowrap></a></td>
+<td class=proc width=155 align=middle>Allerton Energy Control Parts and Service</td>
+<td class=proc width=50 align=middle>1/11/2012</td>
+<td class=proc width=110 align=middle><a href='mailto:coler@ocps.net'>Robert Cole</a><br>407-3173200 x. 2453</td>
+<td class=proc width=20 align=middle>Under Evaluation</td>
+<td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/ITB1112314_PriceSheet2.xls' target=_blank>Price Sheet</a><br></td>
+<td class=proc width=130 align=middle>None</td>
+<tr><td class=proc width=75 align=middle><a href='115.asp?id=RFP1110277' nowrap>RFP1110277</a></td>
+<td class=proc width=155 align=middle>Consulting Services For Food and Nutrition</td>
+<td class=proc width=50 align=middle>12/13/2011</td>
+<td class=proc width=110 align=middle><a href='mailto:Nahid.Shahnami@ocps.net'>Nahid Shahnami</a><br>407.317.3200 x. 2876</td>
+<td class=proc width=20 align=middle>Under Evaluation</td>
+<td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/RFP1110277_Adden1.pdf' target=_blank>Addendum No.1</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1110277_Equipment List.pdf' target=_blank>Equipment List for central Kitchens</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1110277_Kitchen Plans.pdf' target=_blank>Kitchen Plans</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1110277-MeetingNotice.pdf' target=_blank>Meeting Notice</a><br></td>
+<td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/RFP1110277_NOI PresentationEvaMeeting.xls' target=_blank>NOI-Presentation</a><br></td>
+<tr><td class=proc width=75 align=middle><a href='115.asp?id=' nowrap></a></td>
+<td class=proc width=155 align=middle>ITB1110279 Annual Maintenance Email Archiving Solution</td>
+<td class=proc width=50 align=middle>11/17/2011</td>
+<td class=proc width=110 align=middle><a href='mailto:louemma.cromity@ocps.net'>Lou Emma Cromity</a><br>407-3173200 x. 2460</td>
+<td class=proc width=20 align=middle>Under Evaluation</td>
+<td class=proc width=130 align=middle>None</td>
+<td class=proc width=130 align=middle>None</td>
+<tr><td class=proc width=75 align=middle><a href='115.asp?id=' nowrap></a></td>
+<td class=proc width=155 align=middle>Roofing Services</td>
+<td class=proc width=50 align=middle>9/19/2011</td>
+<td class=proc width=110 align=middle><a href='mailto:william.irvine@ocps.net'>Bill Irvine</a><br>407-317.3700 5319</td>
+<td class=proc width=20 align=middle>Under Evaluation</td>
+<td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/BID PRICE PROPOSAL FORM.pdf' target=_blank>Bid Price Proposal</a><br></td>
+<td class=proc width=130 align=middle>None</td>
+<tr><td class=proc width=75 align=middle><a href='115.asp?id=RFI1108204' nowrap>RFI1108204</a></td>
+<td class=proc width=155 align=middle>Automated School Bus Wash</td>
+<td class=proc width=50 align=middle>9/13/2011</td>
+<td class=proc width=110 align=middle><a href='mailto:Nahid.Shahnami@ocps.net'>Nahid Shahnami</a><br>407.317.3200 x. 2876</td>
+<td class=proc width=20 align=middle>Under Evaluation</td>
+<td class=proc width=130 align=middle>None</td>
+<td class=proc width=130 align=middle>None</td>
+</table>Array
+(
+    [0] => <TD class=maintitlebar align=right>
+<font color=#ffffff><b>You are not logged in </b>  |  <a href='138.asp' class=maintitlebarlink>log in</a>  |  <a href='139.asp' class=maintitlebarlink>register</a>&nbsp;</small>
+</TD>
+    [1] => <TD class=maintitlebar colSpan=6>
+<DIV id=Layer3 style="Z-INDEX: 3; LEFT: 192px; WIDTH: 591px; POSITION: absolute; TOP: 105px; HEIGHT: 21px">
+<TABLE cellSpacing=0 cellPadding=4 border=0>
+
+<TR class=maintitlebarfont vAlign=center align=middle>
+<TD><A class=maintitlebarlink href="https://www.ocps.net/op/procure/Pages/default.aspx" target="">home</A></TD>
+    [2] => <TD class=mainsubtitlebar width=140 height=41>&nbsp;</TD>
+    [3] => <TD class=mainsubtitlebar colSpan=4 height=41>&nbsp;</TD>
+    [4] => <td class="LSB" valign="top" width="170" bgcolor=#F2F2F2>
+<img src="/core/images/s.gif" width="170" height="1" border="0" alt=""><br>
+<BR><BR><BR><BR>
+<table border="0" cellspacing="0" cellpadding="1" width="100%">
+  <tr valign="top">
+    <td width="10" class="sideNav" align="center"></td>
+    [5] => <td class="SiteMapTable">
+<a href="/pages/121.asp" class="sideNav" title="Go to Contact Us">Contact Us</a>    </td>
+    [6] => <td class="SiteMapTable">
+<a href="/pages/105.asp" class="sideNavSelected" title="Go to Solicitations">Solicitations</a><br>
+<table border="0" cellspacing="0" cellpadding="1" width="100%">
+  <tr valign="top">
+    <td width="10" class="sideNav" align="center"></td>
+    [7] => <td class="SiteMapTable">
+<a href="/pages/123.asp" class="sideNavSelected" title="Go to Current Solicitations">Current Solicitations</a><br>
+    </td>
+    [8] => <td class="SiteMapTable">
+<a href="/pages/135.asp" class="sideNav" title="Go to Single Source Posting">Single Source Posting</a><br>
+    </td>
+    [9] => <td class="SiteMapTable">
+<a href="/pages/124.asp" class="sideNav" title="Go to Awarded Solicitations">Awarded Solicitations</a>    </td>
+    [10] => <td class="SiteMapTable">
+<a href="/pages/126.asp" class="sideNav" title="Go to Annual Contracts">Annual Contracts</a>    </td>
+    [11] => <td class="SiteMapTable">
+<a href="/pages/127.asp" class="sideNav" title="Go to Canceled/Rejected Solicitations">Canceled/Rejected</a>    </td>
+    [12] => <td class="SiteMapTable">
+<a href="/pages/128.asp" class="sideNav" title="Go to Expired/Archived Solicitations">Expired/Archived</a>    </td>
+    [13] => <td class="LSBBuffer" width="20">
+<img src="/core/images/s.gif" width="20" height="1" border="0" alt="">
+<!-- End LSB Buffer -->
+</td>
+    [14] => <td class="MainContent" width="100%">
+<!-- Begin Main PreContent Area -->
+<TABLE cellSpacing=0 cellPadding=0 width=585 border=0><TR><TD vAlign=top width='100%'><table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr valign="top">
+ <td><a class="cookieCrumb" href="/pages/1.asp" title="Return to the home page">Home</a>&nbsp;&raquo;&nbsp;<a class="cookieCrumb" href="/pages/105.asp" title="Go to Solicitations">Solicitations</a>&nbsp;&raquo;&nbsp;Current Solicitations</td>
+    [15] => <TD class=proc align=middle width=75 bgColor=#cccccc nowrap><a href='123.asp?sort=number'><B>Number</B></a></TD>
+    [16] => <TD class=proc align=middle width=155 bgColor=#cccccc><a href='123.asp?sort=title'><B>Bid/RFP Title</B></a></TD>
+    [17] => <TD class=proc align=middle width=50 bgColor=#cccccc><a href='123.asp?sort=duedate'><B>Due Date</B></a></TD>
+    [18] => <TD class=proc align=middle width=110 bgColor=#cccccc><a href='123.asp?sort=contact'><B>Contact</B></a></TD>
+    [19] => <TD class=proc align=middle width=20 bgColor=#cccccc><a href='123.asp?sort=status'><B>Status</B></a></TD>
+    [20] => <TD class=proc align=middle width=130 bgColor=#cccccc><B>Information</B></TD>
+    [21] => <TD class=proc align=middle width=120 bgColor=#cccccc><B>Award/Bid Tabulation</B></TD>
+    [22] => <td class=proc width=75 align=middle><a href='115.asp?id=ITB1209229 ' nowrap>ITB1209229 </a></td>
+    [23] => <td class=proc width=155 align=middle>Fire Suppression Inspection and Repair</td>
+    [24] => <td class=proc width=50 align=middle>10/5/2012</td>
+    [25] => <td class=proc width=110 align=middle><a href='mailto:david.wheeler@ocps.com'>David Wheeler</a><br>407-317.3700 5041</td>
+    [26] => <td class=proc width=20 align=middle>Active</td>
+    [27] => <td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/ITB1209229 Fire Suppression System Inspection and Repair Bid Price Sheet 97-2003 Version.xls' target=_blank> Price Sheet</a><br></td>
+    [28] => <td class=proc width=130 align=middle>None</td>
+    [29] => <td class=proc width=75 align=middle><a href='115.asp?id=RFP1208183' nowrap>RFP1208183</a></td>
+    [30] => <td class=proc width=155 align=middle>HP Servers Equipment, Installation & Support</td>
+    [31] => <td class=proc width=50 align=middle>9/24/2012</td>
+    [32] => <td class=proc width=110 align=middle><a href='mailto:marcel.martinez@ocps.net'>Marcel Martinez</a><br>4073173200 x 2417</td>
+    [33] => <td class=proc width=20 align=middle>Under Evaluation</td>
+    [34] => <td class=proc width=130 align=middle>None</td>
+    [35] => <td class=proc width=130 align=middle>None</td>
+    [36] => <td class=proc width=75 align=middle><a href='115.asp?id=ITB1208203' nowrap>ITB1208203</a></td>
+    [37] => <td class=proc width=155 align=middle>Custodial Supplies and Equipment</td>
+    [38] => <td class=proc width=50 align=middle>9/20/2012</td>
+    [39] => <td class=proc width=110 align=middle><a href='mailto:Nahid.Shahnami@ocps.net'>Nahid Shahnami</a><br>407.317.3200 x. 2876</td>
+    [40] => <td class=proc width=20 align=middle>Under Evaluation</td>
+    [41] => <td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/ITB1208203_CustodialSupplies Price Sheet.pdf' target=_blank>Price Sheet</a><br></td>
+    [42] => <td class=proc width=130 align=middle>None</td>
+    [43] => <td class=proc width=75 align=middle><a href='115.asp?id=ITB1208207' nowrap>ITB1208207</a></td>
+    [44] => <td class=proc width=155 align=middle>Transportation Filters</td>
+    [45] => <td class=proc width=50 align=middle>9/19/2012</td>
+    [46] => <td class=proc width=110 align=middle><a href='mailto:coler@ocps.net'>Robert Cole</a><br>407-3173200 x. 2453</td>
+    [47] => <td class=proc width=20 align=middle>Under Evaluation</td>
+    [48] => <td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/ITB1208207_BidPriceSheet.pdf' target=_blank>Price Sheet</a><br></td>
+    [49] => <td class=proc width=130 align=middle>None</td>
+    [50] => <td class=proc width=75 align=middle><a href='115.asp?id=RFP1208184' nowrap>RFP1208184</a></td>
+    [51] => <td class=proc width=155 align=middle>Network Vulnerability Assessment</td>
+    [52] => <td class=proc width=50 align=middle>9/14/2012</td>
+    [53] => <td class=proc width=110 align=middle><a href='mailto:marcel.martinez@ocps.net'>Marcel Martinez</a><br>4073173200 x 2417</td>
+    [54] => <td class=proc width=20 align=middle>Under Evaluation</td>
+    [55] => <td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/RFP1208184_Pre-Bid MeetingNotice.pdf' target=_blank>Pre-Bid Meeting Notice</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1208184_PreProposal Sgn-In.pdf' target=_blank>Pre-Proposal Meeting Sign-In</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1208184_Addendum1.pdf' target=_blank>Addendum 1</a><br></td>
+    [56] => <td class=proc width=130 align=middle>None</td>
+    [57] => <td class=proc width=75 align=middle><a href='115.asp?id=RFI1208209' nowrap>RFI1208209</a></td>
+    [58] => <td class=proc width=155 align=middle>Forms Management Tool</td>
+    [59] => <td class=proc width=50 align=middle>9/13/2012</td>
+    [60] => <td class=proc width=110 align=middle><a href='mailto:louemma.cromity@ocps.net'>Lou Emma Cromity</a><br>407-3173200 x. 2460</td>
+    [61] => <td class=proc width=20 align=middle>Under Evaluation</td>
+    [62] => <td class=proc width=130 align=middle>None</td>
+    [63] => <td class=proc width=130 align=middle>None</td>
+    [64] => <td class=proc width=75 align=middle><a href='115.asp?id=ITB1208209' nowrap>ITB1208209</a></td>
+    [65] => <td class=proc width=155 align=middle>Radio - Portable Products and Accessories</td>
+    [66] => <td class=proc width=50 align=middle>9/13/2012</td>
+    [67] => <td class=proc width=110 align=middle><a href='mailto:valensa@ocps.net'>Angel Valenson</a><br>407-3173200 x. 2304</td>
+    [68] => <td class=proc width=20 align=middle>Under Evaluation</td>
+    [69] => <td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/ITB1208209_PriceSheet.xls' target=_blank>Price Sheet</a><br></td>
+    [70] => <td class=proc width=130 align=middle>None</td>
+    [71] => <td class=proc width=75 align=middle><a href='115.asp?id=RFP1208182' nowrap>RFP1208182</a></td>
+    [72] => <td class=proc width=155 align=middle>Software Load/Performance Test Services</td>
+    [73] => <td class=proc width=50 align=middle>9/12/2012</td>
+    [74] => <td class=proc width=110 align=middle><a href='mailto:marcel.martinez@ocps.net'>Marcel Martinez</a><br>4073173200 x 2417</td>
+    [75] => <td class=proc width=20 align=middle>Under Evaluation</td>
+    [76] => <td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/RFP1208182_Pre-Bid MeetingNotice.pdf' target=_blank>Pre-Bid Meeting Notice</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1208182_Pre-Proposal Meeting Sign-In Sheet.pdf' target=_blank>Pre-Proposal Meeting Sign In Sheet</a><br></td>
+    [77] => <td class=proc width=130 align=middle>None</td>
+    [78] => <td class=proc width=75 align=middle><a href='115.asp?id=RFP1208205' nowrap>RFP1208205</a></td>
+    [79] => <td class=proc width=155 align=middle>Telecom Billing Report</td>
+    [80] => <td class=proc width=50 align=middle>9/12/2012</td>
+    [81] => <td class=proc width=110 align=middle><a href='mailto:marcel.martinez@ocps.net'>Marcel Martinez</a><br>4073173200 x 2417</td>
+    [82] => <td class=proc width=20 align=middle>Under Evaluation</td>
+    [83] => <td class=proc width=130 align=middle>None</td>
+    [84] => <td class=proc width=130 align=middle>None</td>
+    [85] => <td class=proc width=75 align=middle><a href='115.asp?id=ITB1208204' nowrap>ITB1208204</a></td>
+    [86] => <td class=proc width=155 align=middle>Printing Services</td>
+    [87] => <td class=proc width=50 align=middle>9/12/2012</td>
+    [88] => <td class=proc width=110 align=middle><a href='mailto:calandra.evans@ocps.net'>Calandra Evans</a><br>407-3173200 x. 2455</td>
+    [89] => <td class=proc width=20 align=middle>Under Evaluation</td>
+    [90] => <td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/ITB1208204_BidPriceSheet.pdf' target=_blank>Price Sheet</a><br></td>
+    [91] => <td class=proc width=130 align=middle>None</td>
+    [92] => <td class=proc width=75 align=middle><a href='115.asp?id=ITB1208201' nowrap>ITB1208201</a></td>
+    [93] => <td class=proc width=155 align=middle>Fire Extinguishers</td>
+    [94] => <td class=proc width=50 align=middle>9/11/2012</td>
+    [95] => <td class=proc width=110 align=middle><a href='mailto:valensa@ocps.net'>Angel Valenson</a><br>407-3173200 x. 2304</td>
+    [96] => <td class=proc width=20 align=middle>Under Evaluation</td>
+    [97] => <td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/ITB1208201_PriceSheet.xls' target=_blank>Price Sheet</a><br></td>
+    [98] => <td class=proc width=130 align=middle>None</td>
+    [99] => <td class=proc width=75 align=middle><a href='115.asp?id=ITB12058192' nowrap>ITB12058192</a></td>
+    [100] => <td class=proc width=155 align=middle>Utility Vehicle</td>
+    [101] => <td class=proc width=50 align=middle>9/11/2012</td>
+    [102] => <td class=proc width=110 align=middle><a href='mailto:valensa@ocps.net'>Angel Valenson</a><br>407-3173200 x. 2304</td>
+    [103] => <td class=proc width=20 align=middle>Under Evaluation</td>
+    [104] => <td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/ITB1208192_PriceSheet.xls' target=_blank>Price Sheet</a><br></td>
+    [105] => <td class=proc width=130 align=middle>None</td>
+    [106] => <td class=proc width=75 align=middle><a href='115.asp?id=RFP1208180' nowrap>RFP1208180</a></td>
+    [107] => <td class=proc width=155 align=middle>Telecommunication Services</td>
+    [108] => <td class=proc width=50 align=middle>9/7/2012</td>
+    [109] => <td class=proc width=110 align=middle><a href='mailto:marcel.martinez@ocps.net'>Marcel Martinez</a><br>4073173200 x 2417</td>
+    [110] => <td class=proc width=20 align=middle>Under Evaluation</td>
+    [111] => <td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/OCPS Sites List.pdf' target=_blank>Attachment</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1208180_Meeting Notice.pdf' target=_blank>Meeting Notice</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1208180_Pre-proposal Meeting Sign-In Sheet.pdf' target=_blank>Pre-Proposal Meeting Sign In Sheet</a><br></td>
+    [112] => <td class=proc width=130 align=middle>None</td>
+    [113] => <td class=proc width=75 align=middle><a href='115.asp?id=ITB1205114' nowrap>ITB1205114</a></td>
+    [114] => <td class=proc width=155 align=middle>Supplemental Transportation Special Needs Students</td>
+    [115] => <td class=proc width=50 align=middle>9/5/2012</td>
+    [116] => <td class=proc width=110 align=middle><a href='mailto:Nahid.Shahnami@ocps.net'>Nahid Shahnami</a><br>407.317.3200 x. 2876</td>
+    [117] => <td class=proc width=20 align=middle>Under Evaluation</td>
+    [118] => <td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/Isolated Transportation Price Sheet (2).pdf' target=_blank>Price Sheet</a><br><a href='http://procure.ocps.net/rfpdocs/Isolated Transportation Price Sheet (2).pdf' target=_blank>Price Sheet</a><br><a href='http://procure.ocps.net/rfpdocs/ITB1205114_Adden1.pdf' target=_blank>Addendum 1</a><br><a href='http://procure.ocps.net/rfpdocs/ITB1205114_Addendum 2.pdf' target=_blank>Addendum 2</a><br></td>
+    [119] => <td class=proc width=130 align=middle>None</td>
+    [120] => <td class=proc width=75 align=middle><a href='115.asp?id=ITB1208193' nowrap>ITB1208193</a></td>
+    [121] => <td class=proc width=155 align=middle>Transportation Wrecker Services</td>
+    [122] => <td class=proc width=50 align=middle>9/5/2012</td>
+    [123] => <td class=proc width=110 align=middle><a href='mailto:coler@ocps.net'>Robert Cole</a><br>407-3173200 x. 2453</td>
+    [124] => <td class=proc width=20 align=middle>Under Evaluation</td>
+    [125] => <td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/ITB1208193_PriceSheet.xls' target=_blank>Price Sheet</a><br></td>
+    [126] => <td class=proc width=130 align=middle>None</td>
+    [127] => <td class=proc width=75 align=middle><a href='115.asp?id=ITB1205116' nowrap>ITB1205116</a></td>
+    [128] => <td class=proc width=155 align=middle>Nutrition Banners Printing and Installation</td>
+    [129] => <td class=proc width=50 align=middle>9/4/2012</td>
+    [130] => <td class=proc width=110 align=middle><a href='mailto:Nahid.Shahnami@ocps.net'>Nahid Shahnami</a><br>407.317.3200 x. 2876</td>
+    [131] => <td class=proc width=20 align=middle>Under Evaluation</td>
+    [132] => <td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/ITB1205116_Price sheet.pdf' target=_blank>Price Sheet</a><br><a href='http://procure.ocps.net/rfpdocs/ITB1205116_Adden1.pdf' target=_blank>Addendum 1</a><br><a href='http://procure.ocps.net/rfpdocs/ITB1205116_RevisedPrice sheet.pdf' target=_blank>Revised Price Sheet</a><br></td>
+    [133] => <td class=proc width=130 align=middle>None</td>
+    [134] => <td class=proc width=75 align=middle><a href='115.asp?id=ITB1207177' nowrap>ITB1207177</a></td>
+    [135] => <td class=proc width=155 align=middle>ProofPoint Licenses, Annual Maintenance and Support</td>
+    [136] => <td class=proc width=50 align=middle>8/21/2012</td>
+    [137] => <td class=proc width=110 align=middle><a href='mailto:louemma.cromity@ocps.net'>Lou Emma Cromity</a><br>407-3173200 x. 2460</td>
+    [138] => <td class=proc width=20 align=middle>Under Evaluation</td>
+    [139] => <td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/ITB1207177_ Bid Price Sheet.xls' target=_blank>Price Sheet</a><br></td>
+    [140] => <td class=proc width=130 align=middle>None</td>
+    [141] => <td class=proc width=75 align=middle><a href='115.asp?id=RFI1207176' nowrap>RFI1207176</a></td>
+    [142] => <td class=proc width=155 align=middle>Building Best Practices in SAP</td>
+    [143] => <td class=proc width=50 align=middle>8/21/2012</td>
+    [144] => <td class=proc width=110 align=middle><a href='mailto:louemma.cromity@ocps.net'>Lou Emma Cromity</a><br>407-3173200 x. 2460</td>
+    [145] => <td class=proc width=20 align=middle>Under Evaluation</td>
+    [146] => <td class=proc width=130 align=middle>None</td>
+    [147] => <td class=proc width=130 align=middle>None</td>
+    [148] => <td class=proc width=75 align=middle><a href='115.asp?id=ITB1207161' nowrap>ITB1207161</a></td>
+    [149] => <td class=proc width=155 align=middle>Skid Steer</td>
+    [150] => <td class=proc width=50 align=middle>8/21/2012</td>
+    [151] => <td class=proc width=110 align=middle><a href='mailto:valensa@ocps.net'>Angel Valenson</a><br>407-3173200 x. 2304</td>
+    [152] => <td class=proc width=20 align=middle>Under Evaluation</td>
+    [153] => <td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/ITB1207161_PriceSheet.xls' target=_blank>Price Sheet</a><br></td>
+    [154] => <td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/ITB1207161_TAB.pdf' target=_blank>Tab Sheet</a><br><a href='http://procure.ocps.net/rfpdocs/ITB1207161_NOI.pdf' target=_blank>Notice of Intent</a><br></td>
+    [155] => <td class=proc width=75 align=middle><a href='115.asp?id=ITB1207172' nowrap>ITB1207172</a></td>
+    [156] => <td class=proc width=155 align=middle>Portable A/C</td>
+    [157] => <td class=proc width=50 align=middle>8/21/2012</td>
+    [158] => <td class=proc width=110 align=middle><a href='mailto:valensa@ocps.net'>Angel Valenson</a><br>407-3173200 x. 2304</td>
+    [159] => <td class=proc width=20 align=middle>Under Evaluation</td>
+    [160] => <td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/ITB1207170_PriceSheet.xls' target=_blank>Price Sheet</a><br></td>
+    [161] => <td class=proc width=130 align=middle>None</td>
+    [162] => <td class=proc width=75 align=middle><a href='115.asp?id=ITB1207175' nowrap>ITB1207175</a></td>
+    [163] => <td class=proc width=155 align=middle>Ball Field Clay</td>
+    [164] => <td class=proc width=50 align=middle>8/21/2012</td>
+    [165] => <td class=proc width=110 align=middle><a href='mailto:valensa@ocps.net'>Angel Valenson</a><br>407-3173200 x. 2304</td>
+    [166] => <td class=proc width=20 align=middle>Under Evaluation</td>
+    [167] => <td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/ITB1207175_PriceSheet.xls' target=_blank>Price Sheet</a><br></td>
+    [168] => <td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/ITB1207175_Tab.pdf' target=_blank>Tab Sheet</a><br><a href='http://procure.ocps.net/rfpdocs/ITB1207175_NOI.pdf' target=_blank>Notice of Intent</a><br></td>
+    [169] => <td class=proc width=75 align=middle><a href='115.asp?id=RFP1206155' nowrap>RFP1206155</a></td>
+    [170] => <td class=proc width=155 align=middle>Staff Augmentation - SAP Functions</td>
+    [171] => <td class=proc width=50 align=middle>7/25/2012</td>
+    [172] => <td class=proc width=110 align=middle><a href='mailto:louemma.cromity@ocps.net'>Lou Emma Cromity</a><br>407-3173200 x. 2460</td>
+    [173] => <td class=proc width=20 align=middle>Under Evaluation</td>
+    [174] => <td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/RFP1206155 Addendum Number 1.pdf' target=_blank>Addendum 1</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1206166_Bid.Sign.In _Log.pdf' target=_blank>Bid Sign In Sheet</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1206155_Shortlist Evaluation Meeting.pdf' target=_blank>Shortlist Evaluation Meeting</a><br></td>
+    [175] => <td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/RFP1206155_Shortlist Evaluation Meeting.pdf' target=_blank>Evaluation Ranking</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1206155_Final Ranking - Revised.pdf' target=_blank>Final Ranking</a><br></td>
+    [176] => <td class=proc width=75 align=middle><a href='115.asp?id=ITB1206149' nowrap>ITB1206149</a></td>
+    [177] => <td class=proc width=155 align=middle>Transportation Filters</td>
+    [178] => <td class=proc width=50 align=middle>7/18/2012</td>
+    [179] => <td class=proc width=110 align=middle><a href='mailto:coler@ocps.net'>Robert Cole</a><br>407-3173200 x. 2453</td>
+    [180] => <td class=proc width=20 align=middle>Under Evaluation</td>
+    [181] => <td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/ITB1206149_Price Sheet.xls' target=_blank>Price Sheet</a><br></td>
+    [182] => <td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/ITB1206149_NOI.pdf' target=_blank>Notice of Intent 071912 4:45PM</a><br><a href='http://procure.ocps.net/rfpdocs/ITB1206149_Revised NOI.pdf' target=_blank>Revised Notice of Intent</a><br></td>
+    [183] => <td class=proc width=75 align=middle><a href='115.asp?id=ITB1206157' nowrap>ITB1206157</a></td>
+    [184] => <td class=proc width=155 align=middle>Asbestos Abatement</td>
+    [185] => <td class=proc width=50 align=middle>7/17/2012</td>
+    [186] => <td class=proc width=110 align=middle><a href='mailto:Nahid.Shahnami@ocps.net'>Nahid Shahnami</a><br>407.317.3200 x. 2876</td>
+    [187] => <td class=proc width=20 align=middle>Under Evaluation</td>
+    [188] => <td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/ITB1206157_BidPriceSheet.xls' target=_blank>Price Sheet</a><br></td>
+    [189] => <td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/ITB1206157_TabSheet.pdf' target=_blank>Tab Sheet</a><br><a href='http://procure.ocps.net/rfpdocs/ITB1206157_NOI.pdf' target=_blank>Notice of Intent</a><br></td>
+    [190] => <td class=proc width=75 align=middle><a href='115.asp?id=ITB1205109' nowrap>ITB1205109</a></td>
+    [191] => <td class=proc width=155 align=middle>Pest Control Services</td>
+    [192] => <td class=proc width=50 align=middle>7/17/2012</td>
+    [193] => <td class=proc width=110 align=middle><a href='mailto:Nahid.Shahnami@ocps.net'>Nahid Shahnami</a><br>407.317.3200 x. 2876</td>
+    [194] => <td class=proc width=20 align=middle>Under Evaluation</td>
+    [195] => <td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/ITB1205109_BidPriceSheet.xls' target=_blank>Price Sheet</a><br><a href='http://procure.ocps.net/rfpdocs/ITB1205109_ Addendum No 1.pdf' target=_blank>Addendum 1</a><br><a href='http://procure.ocps.net/rfpdocs/School List.pdf' target=_blank>School List</a><br></td>
+    [196] => <td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/ITB1205109_TabSheet.pdf' target=_blank>Tab Sheet</a><br><a href='http://procure.ocps.net/rfpdocs/ITB1205109_NOI.pdf' target=_blank>Notice of Intent</a><br></td>
+    [197] => <td class=proc width=75 align=middle><a href='115.asp?id=RFP1206143' nowrap>RFP1206143</a></td>
+    [198] => <td class=proc width=155 align=middle>e-Recruiting Production Support & Services Development</td>
+    [199] => <td class=proc width=50 align=middle>7/13/2012</td>
+    [200] => <td class=proc width=110 align=middle><a href='mailto:louemma.cromity@ocps.net'>Lou Emma Cromity</a><br>407-3173200 x. 2460</td>
+    [201] => <td class=proc width=20 align=middle>Under Evaluation</td>
+    [202] => <td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/RFP1206143_ Pre Submittal MeetingNotice.pdf' target=_blank>Pre-Submittal Meeting Notice</a><br><a href='http://procure.ocps.net/rfpdocs/RFP12061243 e-Recruiting Production and Support_Addendum1.pdf' target=_blank>Addendum 1</a><br><a href='http://procure.ocps.net/rfpdocs/RFP12006143_Shortlist MeetingNotice.pdf' target=_blank>Shortlist Meeting Notice</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1206143_Shortlist Evaluation Meeting.pdf' target=_blank>Shortlist Evaluation Meeting</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1206143_Final Ranking Evaluation Meeting.pdf' target=_blank>Final Ranking Evaluation Meeting</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1206143_REVISEDFinal Ranking Evaluation Meeting.pdf' target=_blank>Revised Final Ranking Evaluation Meeting</a><br></td>
+    [203] => <td class=proc width=130 align=middle>None</td>
+    [204] => <td class=proc width=75 align=middle><a href='115.asp?id=RFI1206142' nowrap>RFI1206142</a></td>
+    [205] => <td class=proc width=155 align=middle>Volunteer Management System</td>
+    [206] => <td class=proc width=50 align=middle>7/13/2012</td>
+    [207] => <td class=proc width=110 align=middle><a href='mailto:louemma.cromity@ocps.net'>Lou Emma Cromity</a><br>407-3173200 x. 2460</td>
+    [208] => <td class=proc width=20 align=middle>Under Evaluation</td>
+    [209] => <td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/RFI1206142_Partners in Education.xls' target=_blank>Partners In Education</a><br><a href='http://procure.ocps.net/rfpdocs/RFI1205126_ATTACHMENT A.doc' target=_blank>Attachment A</a><br><a href='http://procure.ocps.net/rfpdocs/RFI1206142_Volunteer System Features.xls' target=_blank>Volunteer System Features</a><br><a href='http://procure.ocps.net/rfpdocs/RFI1206142_Visitor Systems Features.xls' target=_blank>Visitor Systems Features</a><br></td>
+    [210] => <td class=proc width=130 align=middle>None</td>
+    [211] => <td class=proc width=75 align=middle><a href='115.asp?id=ITB1206147' nowrap>ITB1206147</a></td>
+    [212] => <td class=proc width=155 align=middle>Art Equipment and Supplies</td>
+    [213] => <td class=proc width=50 align=middle>7/12/2012</td>
+    [214] => <td class=proc width=110 align=middle><a href='mailto:calandra.evans@ocps.net'>Calandra Evans</a><br>407-3173200 x. 2455</td>
+    [215] => <td class=proc width=20 align=middle>Under Evaluation</td>
+    [216] => <td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/ITB1206147_BidPriceSheet.xls' target=_blank>Price Sheet</a><br></td>
+    [217] => <td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/ITB1206147_TabSheet1.pdf' target=_blank>Tab Sheet</a><br><a href='http://procure.ocps.net/rfpdocs/ITB1206147_NOI.pdf' target=_blank>Notice of Intent</a><br></td>
+    [218] => <td class=proc width=75 align=middle><a href='115.asp?id=RFP1206144' nowrap>RFP1206144</a></td>
+    [219] => <td class=proc width=155 align=middle>Intrusion Detection System Conversion</td>
+    [220] => <td class=proc width=50 align=middle>7/11/2012</td>
+    [221] => <td class=proc width=110 align=middle><a href='mailto:Nahid.Shahnami@ocps.net'>Nahid Shahnami</a><br>407.317.3200 x. 2876</td>
+    [222] => <td class=proc width=20 align=middle>Under Evaluation</td>
+    [223] => <td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/RFP1206144-ShortEvalMeeting 1.pdf' target=_blank>Shortlist Ranking</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1206144-ShortEvalMeeting 1.pdf' target=_blank>Revised Short List Ranking</a><br></td>
+    [224] => <td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/RFP1206144-Notice of Intent.pdf' target=_blank>Notice of Intent - Final Ranking</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1206144-Notice of Intent.pdf' target=_blank>Revised Notice Of Intent - Final Ranking</a><br></td>
+    [225] => <td class=proc width=75 align=middle><a href='115.asp?id=ITB1205108' nowrap>ITB1205108</a></td>
+    [226] => <td class=proc width=155 align=middle>Custodial Paper (Whse)</td>
+    [227] => <td class=proc width=50 align=middle>7/3/2012</td>
+    [228] => <td class=proc width=110 align=middle><a href='mailto:coler@ocps.net'>Robert Cole</a><br>407-3173200 x. 2453</td>
+    [229] => <td class=proc width=20 align=middle>Under Evaluation</td>
+    [230] => <td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/ITB1205108_PriceSheet.xls' target=_blank>Price Sheet</a><br></td>
+    [231] => <td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/ITB1205108_Tab.pdf' target=_blank>Tab Sheet</a><br></td>
+    [232] => <td class=proc width=75 align=middle><a href='115.asp?id=ITB1201023' nowrap>ITB1201023</a></td>
+    [233] => <td class=proc width=155 align=middle>Classroom Materials</td>
+    [234] => <td class=proc width=50 align=middle>6/28/2012</td>
+    [235] => <td class=proc width=110 align=middle><a href='mailto:calandra.evans@ocps.net'>Calandra Evans</a><br>407-3173200 x. 2455</td>
+    [236] => <td class=proc width=20 align=middle>Under Evaluation</td>
+    [237] => <td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/ITB1201023_PriceSheet.xls' target=_blank>Price Sheet</a><br><a href='http://procure.ocps.net/rfpdocs/ITB1201023_RevisedPriceSheet.xls' target=_blank>Revised Price Sheet</a><br><a href='http://procure.ocps.net/rfpdocs/ITB1201023_Addendum1.pdf' target=_blank>Addendum 1</a><br></td>
+    [238] => <td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/ITB1201023_BidTabSheet.pdf' target=_blank>Tab Sheet</a><br><a href='http://procure.ocps.net/rfpdocs/ITB1201023_NOI.pdf' target=_blank>Notice of Intent </a><br></td>
+    [239] => <td class=proc width=75 align=middle><a href='115.asp?id=ITB1203060' nowrap>ITB1203060</a></td>
+    [240] => <td class=proc width=155 align=middle>Science Tables</td>
+    [241] => <td class=proc width=50 align=middle>6/13/2012</td>
+    [242] => <td class=proc width=110 align=middle><a href='mailto:calandra.evans@ocps.net'>Calandra Evans</a><br>407-3173200 x. 2455</td>
+    [243] => <td class=proc width=20 align=middle>Under Evaluation</td>
+    [244] => <td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/ITB1203060_PriceSheet.xls' target=_blank>Price Sheet</a><br></td>
+    [245] => <td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/ITB1203060_TabSheet.pdf' target=_blank>Tab Sheet</a><br><a href='http://procure.ocps.net/rfpdocs/ITB1203060_NOI.pdf' target=_blank>Notice of Intent </a><br></td>
+    [246] => <td class=proc width=75 align=middle><a href='115.asp?id=ITB1205101' nowrap>ITB1205101</a></td>
+    [247] => <td class=proc width=155 align=middle>Physical Examinations for School Bus Drivers</td>
+    [248] => <td class=proc width=50 align=middle>6/12/2012</td>
+    [249] => <td class=proc width=110 align=middle><a href='mailto:Nahid.Shahnami@ocps.net'>Nahid Shahnami</a><br>407.317.3200 x. 2876</td>
+    [250] => <td class=proc width=20 align=middle>Under Evaluation</td>
+    [251] => <td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/ITB1205101_PriceSheet.xls' target=_blank>Price Sheet</a><br></td>
+    [252] => <td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/ITB1205101_NOI.pdf' target=_blank>Notice of Intent</a><br></td>
+    [253] => <td class=proc width=75 align=middle><a href='115.asp?id=' nowrap></a></td>
+    [254] => <td class=proc width=155 align=middle>Telecom Billing Audit Services</td>
+    [255] => <td class=proc width=50 align=middle>5/29/2012</td>
+    [256] => <td class=proc width=110 align=middle><a href='mailto:marcel.martinez@ocps.net'>Marcel Martinez</a><br>4073173200 x 2417</td>
+    [257] => <td class=proc width=20 align=middle>Under Evaluation</td>
+    [258] => <td class=proc width=130 align=middle>None</td>
+    [259] => <td class=proc width=130 align=middle>None</td>
+    [260] => <td class=proc width=75 align=middle><a href='115.asp?id=RFP1202026' nowrap>RFP1202026</a></td>
+    [261] => <td class=proc width=155 align=middle>Exclusive Beverage Vending Services</td>
+    [262] => <td class=proc width=50 align=middle>4/9/2012</td>
+    [263] => <td class=proc width=110 align=middle><a href='mailto:nidom@ocps.net'>Nellie Nido</a><br>407.317.3200 x. 3306</td>
+    [264] => <td class=proc width=20 align=middle>Under Evaluation</td>
+    [265] => <td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/RFP1202026_RevisedSchedule.pdf' target=_blank>Revised Schedule</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1202026_MeetingNotice1.pdf' target=_blank>Meeting Notice 1</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1202026_Pre Submittal Power Point.ppt' target=_blank>Pre-Submittal Power Point</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1202026_PresubmittalSignIn.pdf' target=_blank>Pre-Submittal Sign In</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1202026_AddendumPost.pdf' target=_blank>Addendum 1</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1202026_Bid_SignIn_Log.pdf' target=_blank>Bid Sign-In Log</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1202026_MeetingNotice2.pdf' target=_blank>Meeting Notice 2</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1202026_ShortlistPost.pdf' target=_blank>Shortlist</a><br></td>
+    [266] => <td class=proc width=130 align=middle>None</td>
+    [267] => <td class=proc width=75 align=middle><a href='115.asp?id=RFP1201013' nowrap>RFP1201013</a></td>
+    [268] => <td class=proc width=155 align=middle>Testing Services: Drug and Alcohol</td>
+    [269] => <td class=proc width=50 align=middle>4/4/2012</td>
+    [270] => <td class=proc width=110 align=middle><a href='mailto:nidom@ocps.net'>Nellie Nido</a><br>407.317.3200 x. 3306</td>
+    [271] => <td class=proc width=20 align=middle>Under Evaluation</td>
+    [272] => <td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/RFP1201013_Addendum1Post.pdf' target=_blank>Addendum 1</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1201013_Addendum2.pdf' target=_blank>Addendum 2</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1201013_BidSignInLog.pdf' target=_blank>Bid Sign In Log</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1201013_MeetingNotice1.pdf' target=_blank>Meeting Notice 1</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1201013_ShortlistPost.pdf' target=_blank>Shortlist</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1201013_MeetingNotice2.pdf' target=_blank>Meeting Notice 2</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1201013_FinalRankingPost.pdf' target=_blank>Final Ranking</a><br></td>
+    [273] => <td class=proc width=130 align=middle>None</td>
+    [274] => <td class=proc width=75 align=middle><a href='115.asp?id=RFP1201016' nowrap>RFP1201016</a></td>
+    [275] => <td class=proc width=155 align=middle>Consulting Services-Healthcare Actuary</td>
+    [276] => <td class=proc width=50 align=middle>2/29/2012</td>
+    [277] => <td class=proc width=110 align=middle><a href='mailto:nidom@ocps.net'>Nellie Nido</a><br>407.317.3200 x. 3306</td>
+    [278] => <td class=proc width=20 align=middle>Under Evaluation</td>
+    [279] => <td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/RFP1201016_Addendum1.pdf' target=_blank>Addendum1</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1201016_BenefitsRateChange.pdf' target=_blank>Benefits Rate Change</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1201016_DemographicStudy.pdf' target=_blank>Demographic Study</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1201016_DRGStudy.pdf' target=_blank>DRG Study</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1201016_GASB2010.pdf' target=_blank>GASB</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1201016_HRA.pdf' target=_blank>HRA</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1201016_MedicareComparison.pdf' target=_blank>Medicare Comparison</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1201016_RateReallocation.pdf' target=_blank>Rate Reallocation</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1201016_RateReallocation.xls' target=_blank>Rate Reallocation Spreadsheet</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1201016_SummerReserveFactors.pdf' target=_blank>Summer Reserve Factors</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1201016_Bid_SignIn_Log.pdf' target=_blank>Bid Sign In Log</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1201016_MeetingNotice1.pdf' target=_blank>Meeting Notice 1</a><br></td>
+    [280] => <td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/RFP1201016_RankPost.pdf' target=_blank>Shortlist Ranking</a><br></td>
+    [281] => <td class=proc width=75 align=middle><a href='115.asp?id=ITB1201017' nowrap>ITB1201017</a></td>
+    [282] => <td class=proc width=155 align=middle>White Fleet Preventative Maintenance District Wide</td>
+    [283] => <td class=proc width=50 align=middle>2/23/2012</td>
+    [284] => <td class=proc width=110 align=middle><a href='mailto:Nahid.Shahnami@ocps.net'>Nahid Shahnami</a><br>407.317.3200 x. 2876</td>
+    [285] => <td class=proc width=20 align=middle>Under Evaluation</td>
+    [286] => <td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/ITB1201017_Price Sheet.xls' target=_blank>Price Sheet</a><br></td>
+    [287] => <td class=proc width=130 align=middle>None</td>
+    [288] => <td class=proc width=75 align=middle><a href='115.asp?id=' nowrap></a></td>
+    [289] => <td class=proc width=155 align=middle>Request for Pizza Selection and Evaluation</td>
+    [290] => <td class=proc width=50 align=middle>2/10/2012</td>
+    [291] => <td class=proc width=110 align=middle><a href='mailto:Nahid.Shahnami@ocps.net'>Nahid Shahnami</a><br>407.317.3200 x. 2876</td>
+    [292] => <td class=proc width=20 align=middle>Under Evaluation</td>
+    [293] => <td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/EXG1201008_Addendum1.pdf' target=_blank>Addendum 1</a><br></td>
+    [294] => <td class=proc width=130 align=middle>None</td>
+    [295] => <td class=proc width=75 align=middle><a href='115.asp?id=' nowrap></a></td>
+    [296] => <td class=proc width=155 align=middle>Middle School Athletic Uniforms</td>
+    [297] => <td class=proc width=50 align=middle>2/8/2012</td>
+    [298] => <td class=proc width=110 align=middle><a href='mailto:calandra.evans@ocps.net'>Calandra Evans</a><br>407-3173200 x. 2455</td>
+    [299] => <td class=proc width=20 align=middle>Under Evaluation</td>
+    [300] => <td class=proc width=130 align=middle>None</td>
+    [301] => <td class=proc width=130 align=middle>None</td>
+    [302] => <td class=proc width=75 align=middle><a href='115.asp?id=EXG1201008' nowrap>EXG1201008</a></td>
+    [303] => <td class=proc width=155 align=middle>Request for Submittal - Secondary Pizza Testing</td>
+    [304] => <td class=proc width=50 align=middle>2/3/2012</td>
+    [305] => <td class=proc width=110 align=middle><a href='mailto:Nahid.Shahnami@ocps.net'>Nahid Shahnami</a><br>407.317.3200 x. 2876</td>
+    [306] => <td class=proc width=20 align=middle>Under Evaluation</td>
+    [307] => <td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/EXG1201008_Pizza Attachment B TUESDAY 31.pdf' target=_blank>Attachment B</a><br><a href='http://procure.ocps.net/rfpdocs/EXG1201008-Pizza Specification-PS POSTING TUESDAY 31.xls' target=_blank>Specification</a><br></td>
+    [308] => <td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/EXG1201008- Final Evaluation_ POSTING ThursdayFeb09.xls' target=_blank>Notice of Intent </a><br><a href='http://procure.ocps.net/rfpdocs/EXG1201008 PizzaTest results Sent to USFood for Pricing.xls' target=_blank>Notice - OCPS Requesting US Foods for Pricing</a><br></td>
+    [309] => <td class=proc width=75 align=middle><a href='115.asp?id=' nowrap></a></td>
+    [310] => <td class=proc width=155 align=middle>Projector Replacement Lamps/Bulbs</td>
+    [311] => <td class=proc width=50 align=middle>1/25/2012</td>
+    [312] => <td class=proc width=110 align=middle><a href='mailto:louemma.cromity@ocps.net'>Lou Emma Cromity</a><br>407-3173200 x. 2460</td>
+    [313] => <td class=proc width=20 align=middle>Under Evaluation</td>
+    [314] => <td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/ITB1112321  Price Sheet.xlsx' target=_blank>Price Sheet</a><br></td>
+    [315] => <td class=proc width=130 align=middle>None</td>
+    [316] => <td class=proc width=75 align=middle><a href='115.asp?id=' nowrap></a></td>
+    [317] => <td class=proc width=155 align=middle>Poster Makers and Lamination Equipment and Supplies</td>
+    [318] => <td class=proc width=50 align=middle>1/25/2012</td>
+    [319] => <td class=proc width=110 align=middle><a href='mailto:louemma.cromity@ocps.net'>Lou Emma Cromity</a><br>407-3173200 x. 2460</td>
+    [320] => <td class=proc width=20 align=middle>Under Evaluation</td>
+    [321] => <td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/ITB1106164 Price Sheet.xls' target=_blank>Price Sheet</a><br></td>
+    [322] => <td class=proc width=130 align=middle>None</td>
+    [323] => <td class=proc width=75 align=middle><a href='115.asp?id=RFP1110280' nowrap>RFP1110280</a></td>
+    [324] => <td class=proc width=155 align=middle>Emergency Meal and Supplies</td>
+    [325] => <td class=proc width=50 align=middle>1/17/2012</td>
+    [326] => <td class=proc width=110 align=middle><a href='mailto:Nahid.Shahnami@ocps.net'>Nahid Shahnami</a><br>407.317.3200 x. 2876</td>
+    [327] => <td class=proc width=20 align=middle>Under Evaluation</td>
+    [328] => <td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/RFP1110280 ATTACHMENT A.pdf' target=_blank>Attachment A</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1110280 ATTACHMENTS B.pdf' target=_blank>Attachment B</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1110280 ATTACHMENT C.pdf' target=_blank>Attachment C</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1110280 ATTACHMENT D.pdf' target=_blank>Attachment D</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1110280 ATTACHMENT F.pdf' target=_blank>Attachment E</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1110280 ATTACHMENT G.pdf' target=_blank>Attachment G</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1110280 ATTACHMENT F.pdf' target=_blank>Attachment F</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1110280 ATTACHMENT H.pdf' target=_blank>Attachment H</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1110280 ATTACHMENT I.pdf' target=_blank>Attachment I</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1110280 ATTACHMENT J.pdf' target=_blank>Attachment J</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1110280 ATTACHMENT K.pdf' target=_blank>Attachment K</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1110280 ATTACHMENT M.pdf' target=_blank>Attachment M</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1110280 ATTACHMENT N.pdf' target=_blank>Attachment N</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1110280 ATTACHMENT P.pdf' target=_blank>Attachment P</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1110280 ATTACHMENT L.pdf' target=_blank>Attachment L</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1110280 ATTACHMENT O.pdf' target=_blank>Attachment O</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1110280_ Meeting Notice.pdf' target=_blank>Meeting Notice</a><br></td>
+    [329] => <td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/RFP1110280_Presentation Evaluation Feb24 .xls' target=_blank>Notice of Intended Action</a><br></td>
+    [330] => <td class=proc width=75 align=middle><a href='115.asp?id=' nowrap></a></td>
+    [331] => <td class=proc width=155 align=middle>Allerton Energy Control Parts and Service</td>
+    [332] => <td class=proc width=50 align=middle>1/11/2012</td>
+    [333] => <td class=proc width=110 align=middle><a href='mailto:coler@ocps.net'>Robert Cole</a><br>407-3173200 x. 2453</td>
+    [334] => <td class=proc width=20 align=middle>Under Evaluation</td>
+    [335] => <td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/ITB1112314_PriceSheet2.xls' target=_blank>Price Sheet</a><br></td>
+    [336] => <td class=proc width=130 align=middle>None</td>
+    [337] => <td class=proc width=75 align=middle><a href='115.asp?id=RFP1110277' nowrap>RFP1110277</a></td>
+    [338] => <td class=proc width=155 align=middle>Consulting Services For Food and Nutrition</td>
+    [339] => <td class=proc width=50 align=middle>12/13/2011</td>
+    [340] => <td class=proc width=110 align=middle><a href='mailto:Nahid.Shahnami@ocps.net'>Nahid Shahnami</a><br>407.317.3200 x. 2876</td>
+    [341] => <td class=proc width=20 align=middle>Under Evaluation</td>
+    [342] => <td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/RFP1110277_Adden1.pdf' target=_blank>Addendum No.1</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1110277_Equipment List.pdf' target=_blank>Equipment List for central Kitchens</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1110277_Kitchen Plans.pdf' target=_blank>Kitchen Plans</a><br><a href='http://procure.ocps.net/rfpdocs/RFP1110277-MeetingNotice.pdf' target=_blank>Meeting Notice</a><br></td>
+    [343] => <td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/RFP1110277_NOI PresentationEvaMeeting.xls' target=_blank>NOI-Presentation</a><br></td>
+    [344] => <td class=proc width=75 align=middle><a href='115.asp?id=' nowrap></a></td>
+    [345] => <td class=proc width=155 align=middle>ITB1110279 Annual Maintenance Email Archiving Solution</td>
+    [346] => <td class=proc width=50 align=middle>11/17/2011</td>
+    [347] => <td class=proc width=110 align=middle><a href='mailto:louemma.cromity@ocps.net'>Lou Emma Cromity</a><br>407-3173200 x. 2460</td>
+    [348] => <td class=proc width=20 align=middle>Under Evaluation</td>
+    [349] => <td class=proc width=130 align=middle>None</td>
+    [350] => <td class=proc width=130 align=middle>None</td>
+    [351] => <td class=proc width=75 align=middle><a href='115.asp?id=' nowrap></a></td>
+    [352] => <td class=proc width=155 align=middle>Roofing Services</td>
+    [353] => <td class=proc width=50 align=middle>9/19/2011</td>
+    [354] => <td class=proc width=110 align=middle><a href='mailto:william.irvine@ocps.net'>Bill Irvine</a><br>407-317.3700 5319</td>
+    [355] => <td class=proc width=20 align=middle>Under Evaluation</td>
+    [356] => <td class=proc width=130 align=middle><a href='http://procure.ocps.net/rfpdocs/BID PRICE PROPOSAL FORM.pdf' target=_blank>Bid Price Proposal</a><br></td>
+    [357] => <td class=proc width=130 align=middle>None</td>
+    [358] => <td class=proc width=75 align=middle><a href='115.asp?id=RFI1108204' nowrap>RFI1108204</a></td>
+    [359] => <td class=proc width=155 align=middle>Automated School Bus Wash</td>
+    [360] => <td class=proc width=50 align=middle>9/13/2011</td>
+    [361] => <td class=proc width=110 align=middle><a href='mailto:Nahid.Shahnami@ocps.net'>Nahid Shahnami</a><br>407.317.3200 x. 2876</td>
+    [362] => <td class=proc width=20 align=middle>Under Evaluation</td>
+    [363] => <td class=proc width=130 align=middle>None</td>
+    [364] => <td class=proc width=130 align=middle>None</td>
+    [365] => <TD class=maintitlebar>
+<P><FONT color=#ffffff><SMALL>If you have any questions or comments please email us at <A class="" style="COLOR: #f2f2f2; TEXT-DECORATION: none" href="mailto:Procurement@ocps.net" target="">Procurement@ocps.net</A> <BR><BR><B>DISCLAIMER NOTICE:&nbsp; </B>The information on this site is being provided as a service to our customers and to the community. Due to its dynamic nature, we cannot guarantee the information contained herein is current or complete at all times. Every effort has been made to assure its accuracy at the time it was posted. It is not necessarily complete, authoritative, or legally binding.</SMALL></P></FONT></TD>
+)
+SiteMapTable

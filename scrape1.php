@@ -1,6 +1,6 @@
 <?php
-include_once("LIB_http.php");
-include_once("LIB_parse.php");
+include_once("wsssl/LIB_http.php");
+include_once("wsssl/LIB_parse.php");
 
 $source = "http://procure.ocps.net/pages/123.asp";
 $home_url = "http://procure.ocps.net/pages/123.asp";
